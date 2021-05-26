@@ -1,0 +1,157 @@
+# ASSIGNMENT-1-
+Defining Problem 
+Input 	Process 	Output 
+“AyeshaManager”	Welcome to AyeshaBeauty  	“Display Introduction Message  Welcome to AyeshaBeautyCreation” 
+“AyeshaManager” 	History of the AyeshaBeauty 	“Display image for products + Map”
+“AyeshaManager” 	Description  the information on the Product that is being Manufactured 	“Display the productCosmetics’’
+“AyeshaManager”	Description of the processes of the Manufacturer 	‘’Display the Product Distribution channel’’
+“AyeshaManager and IT Technical ” 	Description  of the   recruitment	“Display the HumanResource’’
+“AyeshaManager’’	Description of the handling the finance	“Display the Finance Department’’
+‘’AyeshaManager” 	Description of the Documentation in the database” 	‘’Display the  Management  databased”
+‘’Ayesha IT Technical” 	Description of the Installation programs 	“ Display the Install on Programs images” 
+
+Program Representation (Pseudocode) 
+ START 
+Input Prompt for Products(){ 
+IF products=”Natural_Hair” /// Soft Hair, Thick Hair, Relax
+    Print available 
+Else
+   If product=”Body_Product” /// Shea Butter, Coconut,
+      “Display Print_Available” 
+Else 
+      IF products=”Poor_Quality”
+    Display “Print Poor Hair” 
+     ENDIF 
+   ENDIF 
+ENDIF
+   Read product Record 
+  ENDDO 
+Print Total_ Products /// 100,
+}
+END 
+
+
+
+
+
+
+
+START 
+Prompt for Employee details(){
+   If Employee details= “Current_ Employee” /// 258968,258684,65594
+ Display “Print_Move”
+}
+Else 
+If employees detail= “New_Employees” (){ /// name,ID
+Display Print_Recruit
+}
+Else
+ If employees Details ()= ”Training_Required”
+   Display Print Plan and Conduct_training 
+ELSE 
+    If employees detail=”Training_Not_Required”
+  Display Print_Shift 
+     ENDIF 
+   ENDIF 
+ ENDIF 
+END 
+
+
+
+
+
+
+
+
+
+
+
+
+START 
+Prompt Devices App
+Android, IOS
+   If ()Android {
+ Display Download_App Ayesha_Beauty
+Else ()IOS 
+  Display Download_App Ayesha_Beauty
+}
+If (Sim1=Sim2) than 
+   “Display Register Sim1”
+  Else  
+If (Sim2=Sim1)() than
+   “Display Register Sim2”
+If (Language=English) {
+  “Display Read English”
+Else 
+  (Language=Other)
+   “Display Not Read”
+}
+     ENDIF 
+    ENDIF 
+ ENDIF 
+END
+
+
+
+
+
+
+
+
+
+Flowchart 
+
+1)	STAFF FOR AYESHA BEUATTY CREATION 
+
+ 
+
+
+
+
+
+
+2 )  PRODUCT ORDER FROM AYESHA BEAUTY CREATION 
+ 
+
+
+
+
+
+
+
+
+
+
+3.  AYESHA MOBILE APP
+
+ 
+
+
+
+
+
+
+
+Modules 
+1.	Staff ()
+
+Staff_ID
+Staff_No
+
+2.	Product()
+
+Product _Name 
+Product_ Label
+Product_ Code 
+
+3.	Customers ()
+
+Customer_Name 
+Customer_ ID
+Booking_Date
+
+4.	Computers()
+  Booking 
+  Customer_ Infor (KYC)
+  Delivery_address
+
